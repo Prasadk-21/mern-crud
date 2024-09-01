@@ -27,3 +27,5 @@ The React frontend provides a responsive and interactive user interface, while t
 * 4. MongoDB Atlas
 
 You can Access my Project here: (https://mern-crud-theta.vercel.app/)
+
+You can Access to its deployment log here: (https://vercel.com/venkat-prasads-projects-835926f5/mern-crud/deployments)
